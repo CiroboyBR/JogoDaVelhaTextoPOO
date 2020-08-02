@@ -1,5 +1,5 @@
 //Jogo da Velha modo texto feito em Java utilizado os conceitos de Programação Orientada a Objetos
-//Feito por: Ciro Martins Meneses
+//Feito por: Ciro Meneses
 //RU: 2732171
 //Descrição: O jogo possui 3 dificuldades. 
 //Dificuldade 01: O Computador procura um espaço vazio e simplesmente joga.
